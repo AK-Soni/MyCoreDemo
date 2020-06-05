@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/MyGitDemo/.vs/MyGitDemo
+/MyGitDemo/MyGitDemo/obj
+/MyGitDemo/MyGitDemo/bin/Debug/netcoreapp3.1
